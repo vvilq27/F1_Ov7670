@@ -1,0 +1,9 @@
+sccb.c:15:22:delayUs	24	static
+sccb.c:24:6:InitSCCB	8	static
+sccb.c:30:6:StartSCCB	8	static
+sccb.c:45:6:StopSCCB	8	static
+sccb.c:59:9:SCCBWrite	40	static
+sccb.c:112:9:SCCBWriteNACK	24	static
+sccb.c:149:9:WriteOV7670	16	static
+sccb.c:180:9:ReadOV7670	40	static
+sccb.c:241:9:InitOV7670	16	static
